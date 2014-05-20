@@ -25,7 +25,7 @@
     <color name="call_log_missed_call_highlight_color">#FF0000</color>
 
     <!-- Color of the text describing an unconsumed voicemail. -->
-    <color name="call_log_voicemail_highlight_color">#33b5e5</color>
+    <color name="call_log_voicemail_highlight_color">#404040</color>
 
     <!-- Colour of voicemail progress bar to the right of position indicator.
          Same as the background color of the dialer -->
